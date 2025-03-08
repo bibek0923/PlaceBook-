@@ -20,7 +20,7 @@
  Clone this repository to your local machine:
 
 ```bash
-  git clone https://github.com/yourusername/placetracker.git
+  https://github.com/bibek0923/PlaceBook-.git
 
 ```
  Open the project in your preferred IDE (Android Studio/VS code).
