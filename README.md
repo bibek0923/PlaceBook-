@@ -1,16 +1,43 @@
-# favourite_places
 
-A new Flutter project.
+# PlaceBook
 
-## Getting Started
+##### PlaceTracker is an application that allows users to add, manage, and store places they visit. The app integrates native camera functionality for capturing photos, uses SQLite for local data storage, and incorporates integrated maps for location-based features.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Add Places: Users can add new places by entering the place name, photo, and location details.
+- Delete Places: Users have the option to delete places from their list.
+- Native Camera Integration: The app uses the device's native camera to capture images of the places.
+- SQLite Database: Places data is stored locally in an SQLite database, ensuring that information is saved even when offline.
+- Integrated Maps: Users can view the locations on a map, providing an intuitive interface for exploring saved places.
+
+
+## Installation
+
+ Clone this repository to your local machine:
+
+```bash
+  git clone https://github.com/yourusername/placetracker.git
+
+```
+ Open the project in your preferred IDE (Android Studio/VS code).
+ 
+ Make sure all dependencies are installed:
+- SQLite for data storage.
+- Google Maps SDK for integrated maps.
+
+## Demo
+
+https://drive.google.com/file/d/1sBt05irP24QKGPQTrPJkE0-X8ZzmV3x3/view?usp=sharing
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
+
+
+
+
